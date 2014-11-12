@@ -1,4 +1,4 @@
 Restful-Services
 ================
 
-Connect to a Restful Service and download a file
+Connect to a Mediafire API and download a file from a Mediafire account
